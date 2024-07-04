@@ -1,0 +1,21 @@
+:root{
+--cor-principal: #00BFFF;
+}
+
+body{
+background-color: var(--cor-principal);
+}
+
+
+p{
+    border-radius: 10px;
+    margin: 5%;
+    font-size: 25px;
+    max-width: 50%;
+}
+.imagem{
+    margin-left: 60%;
+}
+.botao{
+color: aqua;
+}
